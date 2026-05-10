@@ -239,3 +239,13 @@ https://github.com/devadharshinichandramohan-ops/FUTURE_FS_02
 * Email: [devadharshinichandramohan@gmail.com](mailto:devadharshinichandramohan@gmail.com)
 * GitHub: https://github.com/devadharshinichandramohan-ops
 * LinkedIn: https://www.linkedin.com/in/devadharshini-chandramohan-88546037b/
+
+---
+## Internship
+
+Submitted for:
+
+**Future Interns – Full Stack Web Development Internship (2026)**
+
+Task 2 – LeadNova – Client Lead Management System (Mini CRM)
+
