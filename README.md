@@ -227,11 +227,11 @@ https://github.com/devadharshinichandramohan-ops/FUTURE_FS_02
 
 ## Preview
 
-<img src="hero.png" width="80%" />
-<img src="dashboard.png" width="80%" />
-<img src="leads.png" width="80%" />
-<img src="bottom.png" width=/>"80%" />
-<img src="mobile.png" width=/>"40%" />
+<img src="hero.png" width="80%"/>
+<img src="dashboard.png" width="80%"/>
+<img src="leads.png" width="80%"/>
+<img src="bottom.png" width=/>"80%"/>
+<img src="mobile.png" width=/>"40%"/>
 
 
 ---
